@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Learning the React Query</h1>
+      <h1>Learning the TanStack/React Query</h1>
       
     </div>
   );
